@@ -88,7 +88,7 @@ docker run -d --name quip-node \
   registry.gitlab.com/quip.network/quip-protocol/quip-network-node-cpu:latest
 
 echo ""
-echo "✅ VALIDROP NODE DEPLOYED SUCCESSFULLY"
+echo "✅ DEPLOYED SUCCESSFULLY"
 echo "======================================"
 echo "📊 Logs:"
 docker logs -f quip-node
