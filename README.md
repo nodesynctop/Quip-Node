@@ -58,6 +58,8 @@ When you run the installer:
 ## 📊 Check node status
 ```
 docker logs -f quip-node
+<img width="1633" height="709" alt="logs" src="https://github.com/user-attachments/assets/a455f4db-45f5-4877-9839-52b87f97d476" />
+
 ```
 ## 🔁 Restart node
 ```
