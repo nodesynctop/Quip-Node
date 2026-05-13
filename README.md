@@ -1,9 +1,9 @@
 # Quip-Node
 One-Click Installer for Quip Node (Ubuntu)
 
-Dashboadrd: https://quipstats.test-hub.xyz
+Dashboard: `https://quipstats.test-hub.xyz`
 
-X: https://x.com/quipnetwork
+X: `https://x.com/quipnetwork`
 
 ## ⚠️ Requirements
 - VPS (Ubuntu 22.04 / 24.04)
