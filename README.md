@@ -11,7 +11,9 @@ X: `https://x.com/quipnetwork`
 👉 https://quest.quip.network/airdrop?referral_code=9T3DNNOA
 
 You should run the node using the wallet that participated in the quest, because your node will earn points for the quest.
-<img width="469" text-align="center" height="423" alt="44" src="https://github.com/user-attachments/assets/76ac7c27-1676-4cde-a89a-02b4ba882d7b" />
+<p align="center">
+  <img width="469" height="423" alt="44" src="https://github.com/user-attachments/assets/76ac7c27-1676-4cde-a89a-02b4ba882d7b" />
+</p>
 ## ⚠️ Requirements
 - VPS (Ubuntu 22.04 / 24.04)
 - Minimum: 2 - 4 CPU / 8GB RAM
