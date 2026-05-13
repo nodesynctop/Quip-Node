@@ -5,6 +5,9 @@ Dashboard: `https://quipstats.test-hub.xyz`
 
 X: `https://x.com/quipnetwork`
 
+# Quest https://quest.quip.network/airdrop?referral_code=9T3DNNOA
+You should run the node using the wallet that participated in the quest, because your node will earn points for the quest.
+
 ## ⚠️ Requirements
 - VPS (Ubuntu 22.04 / 24.04)
 - Minimum: 2 - 4 CPU / 8GB RAM
