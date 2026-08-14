@@ -8,7 +8,7 @@ X: `https://x.com/quipnetwork`
 
 # Quests
 
-👉 https://quest.quip.network/airdrop?referral_code=9T3DNNOA
+👉 https://quest.quip.network
 
 You should run the node using the wallet that participated in the quest, because your node will earn points for the quest.
 <p align="center">
